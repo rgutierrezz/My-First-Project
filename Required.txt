@@ -1,0 +1,14 @@
+Project 1 requirements
+
+# https://pypi.org/project/flask
+Flask==3.0.2
+
+# https://pypi.org/project/gunicorn
+gunicorn==21.2.0
+
+
+# https://pypi.org/project/pip
+Pip==21.2.4
+
+# https://pypi.org/project/python
+Python==3.9.6
